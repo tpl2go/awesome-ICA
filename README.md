@@ -9,21 +9,37 @@ A list of resources related to Independent Component Analysis
 [Pull requests](https://github.com/tpl2go/awesome-ICA/pulls) are very welcome!
 
 ## Algorithms
-### Rotation-based
+### Mutual Information 
+- [Kernel ICA](https://www.di.ens.fr/~fbach/kernelICA-jmlr.pdf)
+### Entropy 
+- [FastICA](https://www.cs.helsinki.fi/u/ahyvarin/papers/TNN99_reprint.pdf)
+    - [complex-FastICA](https://www.cs.helsinki.fi/u/ahyvarin/papers/IJNS00.pdf)
+    - [nc-FastICA](https://ieeexplore.ieee.org/document/4454224)
+    - [Picard-O: Faster ICA under orthogonal constraint](https://hal.inria.fr/hal-01651842)
+- RADICAL
+- [InfoMax ICA](http://www.inf.fu-berlin.de/lehre/WS05/Mustererkennung/infomax/infomax.pdf)
+- [Entropy-Bound Methods](http://mlsp.umbc.edu/ica_ebm.html)
+    - [ICA-EBM](https://ieeexplore.ieee.org/document/5499122)
+    - [ICA-ERBM](https://ieeexplore.ieee.org/abstract/document/5495311)
+    - [ICA-ERM](https://ieeexplore.ieee.org/document/6845364)
+### ML-Estimation
+- [KDICA: Kernel Density ICA](https://link.springer.com/chapter/10.1007/11679363_4)
+- [EMICA] (https://www.ics.uci.edu/~welling/classnotes/papers_class/ICA.ps.gz)
+### Cumulants
 - JADE: Joint Approximate Diagonalization of Eigen-matrices
 - FOBI: Fourth Order Blind Identification
-- FastICA
-    - c-FastICA
-    - nc-FastICA
-    - c-nc-FastICA
+### Others
 - Reconstruction ICA
-- Kernel ICA
 - Orthonormal ICA
-- [Picard-O: Faster ICA under orthogonal constraint ](https://hal.inria.fr/hal-01651842)
+
+### For communications signals
+- [T-CMN](https://ieeexplore.ieee.org/document/4443874)
+- [A-CMN](https://ieeexplore.ieee.org/document/4053625)
+- [C-QAM](https://ieeexplore.ieee.org/document/4217441)
 
 ### Adaptive
-- ORICA: Online recursive independent component analysis for real-time source separation of high-density EEG.
-- EASI: equivariant adaptive separation by independence
+- [ORICA: Online recursive independent component analysis for real-time source separation of high-density EEG] (https://ieeexplore.ieee.org/abstract/document/6944462)
+-[EASI: equivariant adaptive separation by independence](https://ieeexplore.ieee.org/document/553476)
 - 
 
 ### Advanced Algorithms
@@ -32,8 +48,10 @@ A list of resources related to Independent Component Analysis
 
 ## Code
 - [ORICA](https://github.com/goodshawn12/orica)
+- [sklearn FastICA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html)
+- [Machine Learning for Signal Processing Lab](http://mlsp.umbc.edu/resources.html)
+- [complex ICA](https://github.com/afbujan/complex_ica/)
 - 
-
 
 
 ## Talks
