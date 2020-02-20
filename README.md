@@ -9,6 +9,12 @@ A list of resources related to Independent Component Analysis
 [Pull requests](https://github.com/tpl2go/awesome-ICA/pulls) are very welcome!
 
 ## Algorithms
+
+### Algebraic Methods
+- [JADE](https://pdfs.semanticscholar.org/1e74/ddf23992e14182f42b173e673546824996eb.pdf)
+- [COM2](https://hal.archives-ouvertes.fr/hal-00417283/document)
+- [STOTD](https://hal.archives-ouvertes.fr/hal-00417283/document)
+- [COM1](https://www2.spsc.tugraz.at/people/franklyn/ICASSP97/pdf/author/ic973453.pdf)
 ### Mutual Information 
 - [Kernel ICA](https://www.di.ens.fr/~fbach/kernelICA-jmlr.pdf)
 ### Entropy 
@@ -16,7 +22,7 @@ A list of resources related to Independent Component Analysis
     - [complex-FastICA](https://www.cs.helsinki.fi/u/ahyvarin/papers/IJNS00.pdf)
     - [nc-FastICA](https://ieeexplore.ieee.org/document/4454224)
     - [Picard-O: Faster ICA under orthogonal constraint](https://hal.inria.fr/hal-01651842)
-- RADICAL
+- [RADICAL](https://people.cs.umass.edu/~elm/papers/learned-miller03a.pdf)
 - [InfoMax ICA](http://www.inf.fu-berlin.de/lehre/WS05/Mustererkennung/infomax/infomax.pdf)
 - [Entropy-Bound Methods](http://mlsp.umbc.edu/ica_ebm.html)
     - [ICA-EBM](https://ieeexplore.ieee.org/document/5499122)
@@ -26,8 +32,8 @@ A list of resources related to Independent Component Analysis
 - [KDICA: Kernel Density ICA](https://link.springer.com/chapter/10.1007/11679363_4)
 - [EMICA] (https://www.ics.uci.edu/~welling/classnotes/papers_class/ICA.ps.gz)
 ### Cumulants
-- JADE: Joint Approximate Diagonalization of Eigen-matrices
-- FOBI: Fourth Order Blind Identification
+- [JADE: Joint Approximate Diagonalization of Eigen-matrices](https://pdfs.semanticscholar.org/1e74/ddf23992e14182f42b173e673546824996eb.pdf)
+- [FOBI: Fourth Order Blind Identification](https://ieeexplore.ieee.org/document/266878)
 ### Others
 - Reconstruction ICA
 - Orthonormal ICA
