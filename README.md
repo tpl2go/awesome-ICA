@@ -30,7 +30,7 @@ A list of resources related to Independent Component Analysis
     - [ICA-ERM](https://ieeexplore.ieee.org/document/6845364)
 ### ML-Estimation
 - [KDICA: Kernel Density ICA](https://link.springer.com/chapter/10.1007/11679363_4)
-- [EMICA] (https://www.ics.uci.edu/~welling/classnotes/papers_class/ICA.ps.gz)
+- [EMICA](https://www.ics.uci.edu/~welling/classnotes/papers_class/ICA.ps.gz)
 ### Cumulants
 - [JADE: Joint Approximate Diagonalization of Eigen-matrices](https://pdfs.semanticscholar.org/1e74/ddf23992e14182f42b173e673546824996eb.pdf)
 - [FOBI: Fourth Order Blind Identification](https://ieeexplore.ieee.org/document/266878)
@@ -44,13 +44,16 @@ A list of resources related to Independent Component Analysis
 - [C-QAM](https://ieeexplore.ieee.org/document/4217441)
 
 ### Adaptive
-- [ORICA: Online recursive independent component analysis for real-time source separation of high-density EEG] (https://ieeexplore.ieee.org/abstract/document/6944462)
+- [ORICA: Online recursive independent component analysis for real-time source separation of high-density EEG](https://ieeexplore.ieee.org/abstract/document/6944462)
 -[EASI: equivariant adaptive separation by independence](https://ieeexplore.ieee.org/document/553476)
 - 
 
 ### Advanced Algorithms
 - [TS-FPICA: two-stage fixed-point ICA](http://journal13.magtechjournal.com/Jwk_yddxen/fileup/PDF/2015wz-042.pdf)
 - 
+
+## Comparative Studies
+- [High-Order Contrasts forIndependent Component Analysis](http://www2.iap.fr/users/cardoso/papers/neuralcomp_2ppf.pdf)
 
 ## Code
 - [ORICA](https://github.com/goodshawn12/orica)
@@ -70,7 +73,11 @@ A list of resources related to Independent Component Analysis
 ## Tutorials
 - [A Tutorial on Independent Component Analysis](https://arxiv.org/abs/1404.2986)
 - [UFLDL Tutorials](http://ufldl.stanford.edu/tutorial/unsupervised/ICA/)
-- 
+- [Blind Source Separation: statistical principles](http://www2.iap.fr/users/cardoso/papers/ProcIEEE.pdf)
 
 ## Theses
 - [New Approach to Complex Valued ICA: From FOBI to AMUSE](https://sal.aalto.fi/publications/pdf-files/tlie16_public.pdf)
+
+## Famous People
+- [Piere Comon](http://www.gipsa-lab.grenoble-inp.fr/~pierre.comon/)
+- [Jean-François Cardoso](http://www2.iap.fr/users/cardoso/)
